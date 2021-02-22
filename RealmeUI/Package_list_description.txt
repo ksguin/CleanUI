@@ -1,0 +1,84 @@
+-- Viewed Best at Tab Width: 4 --
+		____________________
+		|| Uninstall List ||
+		--------------------
+		....................
+~~~~~~~~~~ Oppo Roaming ~~~~~~~~~~~~~
+|	com.redteamobile.roaming        |
+|	com.redteamobile.roaming.deamon	|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Opera Browser ~~~~
+|	com.opera.preinstall	|
+|	com.opera.branding.news	| Opera News Branding Provider
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Oppo Crapware ~~~~~~~~~~~~~~~~~~~~
+|	com.oppo.logkit                         | Oppo Feedback Toolkit
+|	com.oppo.operationManual                | User Manual
+|	com.oppo.partnerbrowsercustomizations	| Oppo partner browser customizations
+|	com.oppo.rftoolkit                      | Oppo Rftoolkit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ HeyTap Cloud ~~~~~~~~~
+|	com.heytap.browser          | Pre-installed Browser
+|	com.heytap.cloud            | HeyTap Cloud
+|	com.heytap.datamigration    |
+|	com.heytap.habit.analysis   |
+|	com.heytap.openid           |
+|	com.heytap.pictorial        |
+|	com.heytap.usercenter       | My Realme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ ColorOS Bloat ~~~~~~~~
+|	com.coloros.backuprestore   | Clone Phone
+|	com.coloros.childrenspace   | Kids Space
+|	com.coloros.floatassistant  | Assistive Ball
+|	com.coloros.healthcheck     | Device Health
+|	com.coloros.oshare          | Oppo Share
+|	com.coloros.phonemanager    | Phone Manager (security risk)
+|	com.coloros.securepay       | ColorOS Secure Payment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
+|	com.google.android.apps.youtube.music           | YT Music
+|	com.google.android.feedback                     | Google Feedback
+|	com.google.android.marvin.talkback              | Android Accessibility Suite
+|	com.google.android.printservice.recommendation  |
+|	com.google.android.projection.gearhead          | Android Auto
+|	com.google.android.setupwizard                  | Android Setup Wizard
+|	com.google.android.videos                       | Google Play Movies & TV
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Android Bloat ~~~~~~~~~~~~
+|	com.android.bips                | Android Default Print Service
+|	com.android.bookmarkprovider    | Android Bookmark Provider
+|	com.android.chrome              | Google Chrome
+|	com.android.printspooler        | Mobile Printing Service
+|	com.android.stk                 | SIM Toolkit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Facebook Crap ~~~~
+|	com.facebook.appmanager	|
+|	com.facebook.services	|
+|	com.facebook.system     |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Nearme Crap ~~~~~~~~~~
+|	com.nearme.statistics.rom   | User Experience Program
+|	com.nearme.atlas            |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Extra Bloats ~~~~~~~~~~~~~
+|	com.caf.fmradio                 | FM Radio
+|	com.tencent.soter.soterserver   | Tencent Telemetry
+|	com.os.docvault                 | DocVault
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+		__________________
+		|| Disable List ||
+		------------------
+		..................
+~~~~~~~~~~ HeyTap ~~~~~~~
+|	com.heytap.market   | App Market
+~~~~~~~~~~~~~~~~~~~~~~~~~
