@@ -23,8 +23,13 @@ com.heytap.usercenter.overlay
 com.coloros.backuprestore
 com.coloros.childrenspace
 com.coloros.floatassistant
+com.coloros.focusmode
 com.coloros.healthcheck
+com.coloros.ocrscanner
+com.coloros.ocrservice
+com.coloros.onekeylockscreen
 com.coloros.oshare
+com.coloros.phonenoareainquire
 com.coloros.phonemanager
 com.coloros.securepay
 
