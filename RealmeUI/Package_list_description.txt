@@ -40,6 +40,13 @@
 |	com.coloros.securepay       | ColorOS Secure Payment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+~~~~~~~~~~ Realme Bloat ~~~~~
+|	com.realme.link         | Realme Link App
+|	com.realmepay.payments  | Realme Payments
+|	com.realmestore.app     | Realme Store
+|	com.realmecomm.app      | Realme Community App
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
 |	com.google.android.apps.youtube.music           | YT Music
 |	com.google.android.feedback                     | Google Feedback
