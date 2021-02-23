@@ -56,22 +56,28 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
+|	com.google.android.apps.tachyon			| Google Duo
 |	com.google.android.apps.youtube.music           | YT Music
 |	com.google.android.feedback                     | Google Feedback
 |	com.google.android.marvin.talkback              | Android Accessibility Suite
+|	com.google.android.onetimeinitializer		| Google Onetime Initializer
 |	com.google.android.printservice.recommendation  | Android Print Service Recommendation
 |	com.google.android.projection.gearhead          | Android Auto
 |	com.google.android.setupwizard                  | Android Setup Wizard
+|	com.google.android.tag				| Google Tags
 |	com.google.android.videos                       | Google Play Movies & TV
+|	com.google.ar.core				| Google ARCore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~ Android Bloat ~~~~~~~~~~~~
-|	com.android.bips                | Android Default Print Service
-|	com.android.bookmarkprovider    | Android Bookmark Provider
-|	com.android.chrome              | Google Chrome
-|	com.android.printspooler        | Mobile Printing Service
-|	com.android.stk                 | SIM Toolkit
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Android Bloat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|	com.android.bips                			| Android Default Print Service
+|	com.android.bookmarkprovider    			| Android Bookmark Provider
+|	com.android.cellbroadcastreceiver			| Cell Broadcast Receiver
+|	com.android.cellbroadcastreceiver.overlay.common	| Cell Broadcast Receiver Overlay
+|	com.android.chrome              			| Google Chrome
+|	com.android.printspooler        			| Mobile Printing Service
+|	com.android.stk                 			| SIM Toolkit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ Facebook Crap ~~~~
 |	com.facebook.appmanager	|
