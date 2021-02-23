@@ -7,7 +7,9 @@ com.opera.branding.news
 com.oppo.logkit
 com.oppo.operationManual
 com.oppo.partnerbrowsercustomizations
+com.oppo.qualityprotect
 com.oppo.rftoolkit
+com.oppoex.afterservice
 
 com.heytap.browser
 com.heytap.cloud
@@ -16,6 +18,7 @@ com.heytap.habit.analysis
 com.heytap.openid
 com.heytap.pictorial
 com.heytap.usercenter
+com.heytap.usercenter.overlay
 
 com.coloros.backuprestore
 com.coloros.childrenspace
@@ -26,9 +29,9 @@ com.coloros.phonemanager
 com.coloros.securepay
 
 com.realme.link
+com.realmecomm.app
 com.realmepay.payments
 com.realmestore.app
-com.realmecomm.app
 
 com.google.android.apps.youtube.music
 com.google.android.feedback
