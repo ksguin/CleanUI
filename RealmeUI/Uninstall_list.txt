@@ -25,6 +25,11 @@ com.coloros.oshare
 com.coloros.phonemanager
 com.coloros.securepay
 
+com.realme.link
+com.realmepay.payments
+com.realmestore.app
+com.realmecomm.app
+
 com.google.android.apps.youtube.music
 com.google.android.feedback
 com.google.android.marvin.talkback
