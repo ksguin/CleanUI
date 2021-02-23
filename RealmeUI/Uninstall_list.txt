@@ -38,16 +38,22 @@ com.realmecomm.app
 com.realmepay.payments
 com.realmestore.app
 
+com.google.android.apps.tachyon
 com.google.android.apps.youtube.music
 com.google.android.feedback
 com.google.android.marvin.talkback
+com.google.android.onetimeinitializer
 com.google.android.printservice.recommendation
 com.google.android.projection.gearhead
 com.google.android.setupwizard
+com.google.android.tag
 com.google.android.videos
+com.google.ar.core
 
 com.android.bips
 com.android.bookmarkprovider
+com.android.cellbroadcastreceiver
+com.android.cellbroadcastreceiver.overlay.common
 com.android.chrome
 com.android.printspooler
 com.android.stk
