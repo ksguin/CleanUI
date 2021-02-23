@@ -33,15 +33,20 @@
 |	com.heytap.usercenter.overlay	| My Realme Overlay
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~ ColorOS Bloat ~~~~~~~~
-|	com.coloros.backuprestore   | Clone Phone
-|	com.coloros.childrenspace   | Kids Space
-|	com.coloros.floatassistant  | Assistive Ball
-|	com.coloros.healthcheck     | Device Health
-|	com.coloros.oshare          | Oppo Share
-|	com.coloros.phonemanager    | Phone Manager (security risk)
-|	com.coloros.securepay       | ColorOS Secure Payment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ ColorOS Bloat ~~~~~~~~~~~~
+|	com.coloros.backuprestore   	| Clone Phone
+|	com.coloros.childrenspace   	| Kids Space
+|	com.coloros.floatassistant  	| Assistive Ball
+|	com.coloros.focusmode		| Focus mode
+|	com.coloros.healthcheck     	| Device Health
+|	com.coloros.ocrscanner		| Scan Doc
+|	com.coloros.ocrservice		| OCR Service
+|	com.coloros.onekeylockscreen	| One-Tap Lock Screen
+|	com.coloros.oshare          	| Oppo Share
+|	com.coloros.phonenoareainquire	| Number Origin
+|	com.coloros.phonemanager    	| Phone Manager (security risk)
+|	com.coloros.securepay       	| ColorOS Secure Payment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ Realme Bloat ~~~~~
 |	com.realme.link         | Realme Link App
