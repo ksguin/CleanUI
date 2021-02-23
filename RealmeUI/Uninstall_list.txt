@@ -48,6 +48,7 @@ com.android.printspooler
 com.android.stk
 
 com.facebook.appmanager
+com.facebook.katana
 com.facebook.services
 com.facebook.system
 
@@ -55,5 +56,9 @@ com.nearme.statistics.rom
 com.nearme.atlas
 
 com.caf.fmradio
-com.tencent.soter.soterserver
+com.eterno
 com.os.docvault
+com.ted.number
+com.tencent.soter.soterserver
+com.UCMobile.intl
+
