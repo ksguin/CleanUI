@@ -45,9 +45,9 @@
 
 ~~~~~~~~~~ Realme Bloat ~~~~~
 |	com.realme.link         | Realme Link App
+|	com.realmecomm.app      | Realme Community App
 |	com.realmepay.payments  | Realme Payments
 |	com.realmestore.app     | Realme Store
-|	com.realmecomm.app      | Realme Community App
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,6 +70,7 @@
 
 ~~~~~~~~~~ Facebook Crap ~~~~
 |	com.facebook.appmanager	|
+|	com.facebook.katana     | Facebook App
 |	com.facebook.services	|
 |	com.facebook.system     |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,8 +82,11 @@
 
 ~~~~~~~~~~ Extra Bloats ~~~~~~~~~~~~~
 |	com.caf.fmradio                 | FM Radio
-|	com.tencent.soter.soterserver   | Tencent Telemetry
+|	com.eterno			| Dailyhunt
 |	com.os.docvault                 | DocVault
+|	com.ted.number			| Identification of Unknown Numbers
+|	com.tencent.soter.soterserver   | Tencent Telemetry
+|	com.UCMobile.intl               | UC Browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 		__________________
