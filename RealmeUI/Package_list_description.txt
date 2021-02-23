@@ -17,18 +17,21 @@
 |	com.oppo.logkit                         | Oppo Feedback Toolkit
 |	com.oppo.operationManual                | User Manual
 |	com.oppo.partnerbrowsercustomizations	| Oppo partner browser customizations
+|	com.oppo.qualityprotect                 | Oppo Quality Protect
 |	com.oppo.rftoolkit                      | Oppo Rftoolkit
+|	com.oppoex.afterservice                 | Oppo After Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~ HeyTap Cloud ~~~~~~~~~
-|	com.heytap.browser          | Pre-installed Browser
-|	com.heytap.cloud            | HeyTap Cloud
-|	com.heytap.datamigration    |
-|	com.heytap.habit.analysis   |
-|	com.heytap.openid           |
-|	com.heytap.pictorial        | Lock Screen Magazine
-|	com.heytap.usercenter       | My Realme
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ HeyTap Cloud ~~~~~~~~~~~~~
+|	com.heytap.browser          	| Pre-installed Browser
+|	com.heytap.cloud            	| HeyTap Cloud
+|	com.heytap.datamigration    	|
+|	com.heytap.habit.analysis   	|
+|	com.heytap.openid           	|
+|	com.heytap.pictorial        	| Lock Screen Magazine
+|	com.heytap.usercenter       	| My Realme
+|	com.heytap.usercenter.overlay	| My Realme Overlay
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ ColorOS Bloat ~~~~~~~~
 |	com.coloros.backuprestore   | Clone Phone
