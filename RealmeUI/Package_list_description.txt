@@ -9,7 +9,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ Opera Browser ~~~~
-|	com.opera.preinstall	|
+|	com.opera.preinstall	| Opera Browser
 |	com.opera.branding.news	| Opera News Branding Provider
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -26,7 +26,7 @@
 |	com.heytap.datamigration    |
 |	com.heytap.habit.analysis   |
 |	com.heytap.openid           |
-|	com.heytap.pictorial        |
+|	com.heytap.pictorial        | Lock Screen Magazine
 |	com.heytap.usercenter       | My Realme
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -44,7 +44,7 @@
 |	com.google.android.apps.youtube.music           | YT Music
 |	com.google.android.feedback                     | Google Feedback
 |	com.google.android.marvin.talkback              | Android Accessibility Suite
-|	com.google.android.printservice.recommendation  |
+|	com.google.android.printservice.recommendation  | Android Print Service Recommendation
 |	com.google.android.projection.gearhead          | Android Auto
 |	com.google.android.setupwizard                  | Android Setup Wizard
 |	com.google.android.videos                       | Google Play Movies & TV
@@ -66,7 +66,7 @@
 
 ~~~~~~~~~~ Nearme Crap ~~~~~~~~~~
 |	com.nearme.statistics.rom   | User Experience Program
-|	com.nearme.atlas            |
+|	com.nearme.atlas            | Secure Payment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ Extra Bloats ~~~~~~~~~~~~~
