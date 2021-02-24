@@ -1,7 +1,6 @@
--- Viewed Best at Tab Width: 4 --
-		____________________
-		|| Uninstall List ||
-		--------------------
+		__________________
+		% Uninstall List %
+		------------------
 		....................
 ~~~~~~~~~~ Oppo Roaming ~~~~~~~~~~~~~
 |	com.redteamobile.roaming        |
@@ -100,9 +99,9 @@
 |	com.UCMobile.intl               | UC Browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-		__________________
-		|| Disable List ||
-		------------------
+		________________
+		% Disable List %
+		----------------
 		..................
 ~~~~~~~~~~ HeyTap ~~~~~~~
 |	com.heytap.market   | App Market
