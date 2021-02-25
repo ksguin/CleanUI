@@ -55,6 +55,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
+|	com.google.android.apps.docs			| Google Drive
 |	com.google.android.apps.tachyon			| Google Duo
 |	com.google.android.apps.youtube.music           | YT Music
 |	com.google.android.feedback                     | Google Feedback
