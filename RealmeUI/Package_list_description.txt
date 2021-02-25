@@ -107,3 +107,7 @@
 ~~~~~~~~~~ HeyTap ~~~~~~~
 |	com.heytap.market   | App Market
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~ Nearme Crap ~~~~~~~~~~~~~
+|	com.nearme.gamecenter		| Game Center
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
