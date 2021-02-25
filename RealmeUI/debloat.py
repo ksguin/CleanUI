@@ -19,7 +19,7 @@ def adb_disable(pkg):
 
 def parse_yield_list(line):
     #Package name of form com.package.name
-    return re.findall('[a-zA-Z.]+', line)[0]
+    return re.findall('[a-zA-Z0-9.]+', line)[0]
     
 def clean_usable_input(Lines):
 	parsed_list=[]
