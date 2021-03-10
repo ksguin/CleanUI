@@ -60,12 +60,13 @@
 |	com.coloros.videoeditor			| SoLoop Video Editor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~ Realme Bloat ~~~~~
-|	com.realme.link         | Realme Link App
-|	com.realmecomm.app      | Realme Community App
-|	com.realmepay.payments  | Realme Payments
-|	com.realmestore.app     | Realme Store
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Realme Bloat ~~~~~~~~~~~~~~
+|	com.realme.link         	| Realme Link App
+|	com.realme.securitycheck	| Annoying check after App installation
+|	com.realmecomm.app      	| Realme Community App
+|	com.realmepay.payments  	| Realme Payments
+|	com.realmestore.app     	| Realme Store
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
 |	com.google.android.apps.docs			| Google Drive
