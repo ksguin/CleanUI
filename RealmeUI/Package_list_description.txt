@@ -34,25 +34,31 @@
 |	com.heytap.usercenter.overlay	| My Realme Overlay
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~ ColorOS Bloat ~~~~~~~~~~~~
-|	com.coloros.backuprestore   	| Clone Phone
-|	com.coloros.childrenspace   	| Kids Space
-|	com.coloros.compass2		| Compass
-|	com.coloros.encryption		| Private Safe
-|	com.coloros.floatassistant  	| Assistive Ball
-|	com.coloros.focusmode		| Focus mode
-|	com.coloros.healthcheck     	| Device Health
-|	com.coloros.ocrscanner		| Scan Doc
-|	com.coloros.ocrservice		| OCR Service
-|	com.coloros.onekeylockscreen	| One-Tap Lock Screen
-|	com.coloros.oshare          	| Oppo Share
-|	com.coloros.phonenoareainquire	| Number Origin
-|	com.coloros.phonemanager    	| Phone Manager (security risk)
-|	com.coloros.securepay       	| ColorOS Secure Payment
-|	com.coloros.securitykeyboard	| Secure Keyboard
-|	com.coloros.smartdrive		| Driving Mode
-|	com.coloros.videoeditor		| SoLoop Video Editor
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ ColorOS Bloat ~~~~~~~~~~~~~~~~~~~~
+|	com.coloros.activation			| E-Warranty
+|	com.coloros.activation.overlay.common	| E-Warranty Overlay
+|	com.coloros.backuprestore   		| Clone Phone
+|	com.coloros.childrenspace   		| Kids Space
+|	com.coloros.compass2			| Compass
+|	com.coloros.encryption			| Private Safe
+|	com.coloros.floatassistant  		| Assistive Ball
+|	com.coloros.focusmode			| Focus mode
+|	com.coloros.healthcheck     		| Device Health
+|	com.coloros.healthservice		| Device Health Check
+|	com.coloros.ocrscanner			| Scan Doc
+|	com.coloros.ocrservice			| OCR Service
+|	com.coloros.onekeylockscreen		| One-Tap Lock Screen
+|	com.coloros.oshare          		| Oppo Share
+|	com.coloros.phonenoareainquire		| Number Origin
+|	com.coloros.phonemanager    		| Phone Manager (security risk)
+|	com.coloros.providers.downloads.ui	| ColorOS Downloads
+|	com.coloros.sceneservice		| Smart Services
+|	com.coloros.sceneservice.overlay.common	| Smart Services Overlay
+|	com.coloros.securepay       		| ColorOS Secure Payment
+|	com.coloros.securitykeyboard		| Secure Keyboard
+|	com.coloros.smartdrive			| Driving Mode
+|	com.coloros.videoeditor			| SoLoop Video Editor
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ Realme Bloat ~~~~~
 |	com.realme.link         | Realme Link App
