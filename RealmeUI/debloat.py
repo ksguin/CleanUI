@@ -54,6 +54,9 @@ def uninstall_disable_fn(parsed_list):
 
 #Driver Program
 parsed_list = clean_usable_input(Lines)
+print("\t_______________________________________________")
+print("\t      Total packages to-be affected: ",len(parsed_list)-2 ) #Count-2 for the words 'Uninstall' & 'Disable'
+print("\t-----------------------------------------------")
 uninstall_disable_fn(parsed_list)
 
 print("\n\t______________________________________")
