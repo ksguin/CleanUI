@@ -12,16 +12,19 @@
 |	com.opera.branding.news	| Opera News Branding Provider
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~ Oppo Crapware ~~~~~~~~~~~~~~~~~~~~
-|	com.oppo.criticallog			| Critical Log
-|	com.oppo.logkit                         | Oppo Feedback Toolkit
-|	com.oppo.operationManual                | User Manual
-|	com.oppo.partnerbrowsercustomizations	| Oppo partner browser customizations
-|	com.oppo.qualityprotect                 | Oppo Quality Protect
-|	com.oppo.rftoolkit                      | Oppo Rftoolkit
-|	com.oppo.sos				| Emergency SOS
-|	com.oppoex.afterservice                 | Oppo After Service
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Oppo Crapware ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|	com.oppo.atlas					| AtlasService(Oppo Signed Malware)
+|	com.oppo.criticallog				| Critical Log
+|	com.oppo.fingerprints.fingerprintsensortest	| Fingerprint Sensor Test
+|	com.oppo.logkit                         	| Oppo Feedback Toolkit
+|	com.oppo.multimedia.dirac			| Oppo Dirac Service
+|	com.oppo.operationManual                	| User Manual
+|	com.oppo.partnerbrowsercustomizations		| Oppo partner browser customizations
+|	com.oppo.qualityprotect                 	| Oppo Quality Protect
+|	com.oppo.rftoolkit                      	| Oppo Rftoolkit
+|	com.oppo.sos					| Emergency SOS
+|	com.oppoex.afterservice                 	| Oppo After Service
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~ HeyTap Cloud ~~~~~~~~~~~~~
 |	com.heytap.browser          	| Pre-installed Browser
