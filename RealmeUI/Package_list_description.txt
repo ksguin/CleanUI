@@ -109,11 +109,13 @@
 
 ~~~~~~~~~~ Extra Bloats ~~~~~~~~~~~~~
 |	com.caf.fmradio                 | FM Radio
+|	com.dropboxchmod		| DropboxChmodService
 |	com.eterno			| Dailyhunt
 |	com.os.docvault                 | DocVault
 |	com.ted.number			| Identification of Unknown Numbers
 |	com.tencent.soter.soterserver   | Tencent Telemetry
 |	com.UCMobile.intl               | UC Browser
+|	se.dirac.acs			| Dirac Control Services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 		________________
