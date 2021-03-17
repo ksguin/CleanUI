@@ -72,9 +72,11 @@
 
 ~~~~~~~~~~~~~ Google Bloats ~~~~~~~~~~~~~~~~~~~~~~~~~
 |	com.google.android.apps.docs			| Google Drive
+|	com.google.android.apps.restore			| Restore Android backups from Google Account
 |	com.google.android.apps.tachyon			| Google Duo
 |	com.google.android.apps.youtube.music           | YT Music
 |	com.google.android.feedback                     | Google Feedback
+|	com.google.android.gms.location.history		| Google Location History
 |	com.google.android.marvin.talkback              | Android Accessibility Suite
 |	com.google.android.onetimeinitializer		| Google Onetime Initializer
 |	com.google.android.printservice.recommendation  | Android Print Service Recommendation
