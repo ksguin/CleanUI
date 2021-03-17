@@ -40,7 +40,6 @@
 |	com.coloros.backuprestore   		| Clone Phone
 |	com.coloros.childrenspace   		| Kids Space
 |	com.coloros.compass2			| Compass
-|	com.coloros.encryption			| Private Safe
 |	com.coloros.floatassistant  		| Assistive Ball
 |	com.coloros.focusmode			| Focus mode
 |	com.coloros.healthcheck     		| Device Health
