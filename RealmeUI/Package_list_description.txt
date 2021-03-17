@@ -90,11 +90,15 @@
 
 ~~~~~~~~~~ Android Bloat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 |	com.android.bips                			| Android Default Print Service
+|	com.android.bluetoothmidiservice			| Bluetooth Musical Instrument Digital Interface (MIDI)
 |	com.android.bookmarkprovider    			| Android Bookmark Provider
 |	com.android.cellbroadcastreceiver			| Cell Broadcast Receiver
 |	com.android.cellbroadcastreceiver.overlay.common	| Cell Broadcast Receiver Overlay
 |	com.android.chrome              			| Google Chrome
+|	com.android.htmlviewer					| In-Built HTML Viewer
+|	com.android.pacprocessor				| Proxy Auto-Config
 |	com.android.printspooler        			| Mobile Printing Service
+|	com.android.providers.partnerbookmarks			| Built-in Partner Bookmarks
 |	com.android.stk                 			| SIM Toolkit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
