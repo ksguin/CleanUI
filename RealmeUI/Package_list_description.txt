@@ -44,7 +44,6 @@
 |	com.coloros.backuprestore.remoteservice	| ColorOS Backup/Restore
 |	com.coloros.childrenspace   		| Kids Space
 |	com.coloros.compass2			| Compass
-|	com.coloros.floatassistant  		| Assistive Ball
 |	com.coloros.focusmode			| Focus mode
 |	com.coloros.healthcheck     		| Device Health
 |	com.coloros.healthservice		| Device Health Check
